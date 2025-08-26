@@ -5,4 +5,5 @@ De igual manera, el aumento de la temperatura en las aguas cercanas al volcán y
 
 <img width="992" height="556" alt="image" src="https://github.com/user-attachments/assets/de71db83-38db-4273-bc13-5c04fa089b44" />
 <img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/759c8501-f2e1-4518-82df-ac2a0f4adeec" />
+
 referencias: https://elplaneta.com/2018/06/06/internacional/cinco-senales-que-dan-los-volcanes-meses-antes-de/
