@@ -6,5 +6,6 @@ Estos materiales han sido el desarrollo en estas industrias, y se esta buscando 
 
 <img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/fc928383-9067-4753-9843-4af6724c3085" />
 <img width="1140" height="490" alt="image" src="https://github.com/user-attachments/assets/4c680466-57ef-46bf-8560-615fd899c1ce" />
+
 referencias: https://www.metalmecanica.com/es/noticias/materiales-metalicos-avanzados-redefinen-la-industria
 https://at-machining.com/es/metals-used-for-medical-manufacturing/
