@@ -1,4 +1,4 @@
- ¿Cómo funciona la impresión de circuitos flexibles en ropa inteligente?
+¿Cómo funciona la impresión de circuitos flexibles en ropa inteligente?
 Una placa de circuitos textiles es una PCB flexible hecha de materiales como fibra de vidrio o hilos conductores, que permite la integración en textiles, dispositivos médicos y ropa inteligente. A diferencia de las placas rígidas, se doblan sin romperse.
 Las PCB de tela utilizan sustratos flexibles como el poliéster o la fibra de vidrio, en lugar de la fibra de vidrio rígida con epoxi. Están diseñados para doblarse, plegarse o estirarse, lo que los hace ideales.
 Los circuitos de tela utilizan hilos conductores o tinta en lugar de pistas de cobre.
