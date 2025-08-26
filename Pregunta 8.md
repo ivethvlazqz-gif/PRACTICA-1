@@ -10,4 +10,5 @@ Estos metodos aumentan la tasa de recuperacion, reducen el consumo tanto en agua
 
 <img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/bf9f2cbc-2d7e-4e5d-941f-0ff11d877327" />
 <img width="850" height="550" alt="image" src="https://github.com/user-attachments/assets/c26cef99-19d4-45a0-ae32-a73a6e33e37e" />
+
 referencias: https://inspenet.com/articulo/metalurgia-verde-modelo-sostenible-actual/
