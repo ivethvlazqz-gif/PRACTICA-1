@@ -1,7 +1,7 @@
 ¿Qué nuevos materiales metálicos se están desarrollando para la industria aeroespacial y médica?
-La industria aeroespacial, ha desarrollado materiales innovadores como las aleaciones de níquel y cromo, y los composites de fibra de carbono, que aportan mayor resistencia y ligereza a las aeronaves.
-En la industria medica, aleaciones de cobalto-cromo: el cobalto-cromo es otro metal común utilizado en el sector sanitario. Tiene alta resistencia, resistencia al desgaste y puede soportar altas temperaturas.. Por este motivo, se utiliza principalmente para implantes dentales y prótesis de articulaciones.
-Titanio y sus aleaciones, el titanio es el sustituto preferido del acero inoxidable para reemplazos óseos y soportes esqueléticos. 
+La industria aeroespacial, ha desarrollado materiales como las aleaciones de níquel y cromo, y los composites de fibra de carbono, que aportan mayor resistencia y ligereza a las aeronaves.
+En la industria medica, aleaciones de cobalto-cromo: el cobalto-cromo es otro metal utilizado en el sector sanitario. Tiene gran resistencia al desgaste y puede soportar altas temperaturas. Por esto se utiliza principalmente para implantes dentales y prótesis de articulaciones.
+El titanio es el sustituto mas comun del acero inoxidable para reemplazos óseos y soportes esqueléticos. 
 Estos materiales han sido el desarrollo en estas industrias, y se esta buscando ya sea el reemplazo, o la mejora de estos mismos.
 
 <img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/fc928383-9067-4753-9843-4af6724c3085" />
